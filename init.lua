@@ -15,13 +15,3 @@ vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup("plugins")
 
-local config = require("nvim-treesitter.configs")
-config.setup({
-    ensure_installed = {"python", "go", "lua", "rust", "vim"},
-    highlight = {enable = true},
-    indent = {enable = true},
-
-})
-
-
-vim.keymap.set('n', '<leader>e', ':Neotree filesystem reveal left<CR>', {})
