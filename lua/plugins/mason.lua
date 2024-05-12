@@ -24,6 +24,7 @@ return {
 			lspconfig.rust_analyzer.setup({})
 			lspconfig.pyright.setup({})
 			lspconfig.gopls.setup({})
+			vim.keymap.set('n', 'K', vim.lsp.buf.hover, {})
 		end
 	}
 
