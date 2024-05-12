@@ -30,3 +30,5 @@ added:
 ->lualine
 
 ->none-ls
+
+->alpha.nvim
