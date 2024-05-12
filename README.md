@@ -5,9 +5,9 @@ just new too neovim a stupid config
 dont use this config its just for me and it will be a stupid decision as this is a stupid config and u will hate it
 
 
-installation for linux (i use arch btw) / (mac os if you are rich af) 
+installation for linux (i use arch btw) / mac ( if you are rich af) 
 ```
-git clone https://github.com/TheNewLearner1/stupidnvim ~/.config/nvim
+git clone https://github.com/TheNewLearner1/stupidnvim ~/.config/nvim && nvim
 ```
 
 installation for windows (spyware users) cmd
@@ -28,3 +28,5 @@ added:
 ->Mason
 
 ->lualine
+
+->none-ls
