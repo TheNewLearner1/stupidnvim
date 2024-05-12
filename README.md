@@ -27,4 +27,4 @@ added:
 
 ->Mason
 
-
+->lualine
