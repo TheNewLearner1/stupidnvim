@@ -5,5 +5,5 @@
 --	 config = function()
 --	    vim.cmd.colorscheme "catppuccin"
 --       end
-  vim.cmd.colorscheme "lunaperche"
+  vim.cmd.colorscheme "torte"
  } 
