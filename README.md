@@ -1,0 +1,1 @@
+The Stupid neovim config
