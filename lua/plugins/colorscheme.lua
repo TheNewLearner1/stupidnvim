@@ -1,1 +1,6 @@
-vim.cmd.colorscheme "torte"
+return {
+  config = function()
+    vim.cmd.colorscheme "torte"
+  end
+}
+
