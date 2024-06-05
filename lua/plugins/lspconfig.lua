@@ -12,6 +12,7 @@ return {
         clangd = {},
         lua_ls = {},
         rust_analyzer = {},
+        r_language_server = {},
     },
 
     inlay_hints = {
