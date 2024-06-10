@@ -9,5 +9,5 @@ vim.opt.swapfile = false
 vim.keymap.set('n', '<leader>qqq', "<cmd>q!<CR>", {})
 
 
-vim.keymap.set('n', '<leader>w', "<cmd>w<CR>", {})
+vim.keymap.set('n', '<leader>w', "<cmd>wa<CR>", {})
 vim.keymap.set('n', '<leader>z', vim.cmd.Ex)
