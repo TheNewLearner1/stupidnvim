@@ -9,7 +9,6 @@ return {
     require('lsp-setup').setup({
     servers = {
         pyright = {},
-        clangd = {},
         lua_ls = {},
         rust_analyzer = {},
     },
